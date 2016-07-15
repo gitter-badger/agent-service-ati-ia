@@ -1,5 +1,7 @@
 Agent-Service-ATI-IA
 ====================
+
+[![Join the chat at https://gitter.im/synereo/agent-service-ati-ia](https://badges.gitter.im/synereo/agent-service-ati-ia.svg)](https://gitter.im/synereo/agent-service-ati-ia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The code in this repository is licensed by Agent Technology Inc.  There is no licensing requirement for individuals, non-profit businesses, and non-G20 governments. In other words, it is free for your personal use. You don’t even have to register the software.
 
 Agent Technology Inc introduces a novel licensing model, which we call “forward innovation”. We believe that those who invest in developing an idea should have the right to be rewarded for taking the risk and putting in the effort, but not at the cost of preventing others from innovating further.
